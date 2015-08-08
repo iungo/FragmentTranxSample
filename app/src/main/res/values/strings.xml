@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FragmentTranxSample</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="fragment1">Hello  fragment 1</string>
+    <string name="fragment2">Hello  fragment 2</string>
+    <string name="fragment3">Hello  fragment 3</string>
+</resources>
